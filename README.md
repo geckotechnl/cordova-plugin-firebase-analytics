@@ -3,7 +3,7 @@
 
 ## Installation
 
-    cordova plugin add cordova-plugin-firebase-analytics --save
+    cordova plugin add https://github.com/geckotechnl/cordova-plugin-firebase-analytics.git#e8d9bb1dfa1215d21ac92bb9012fe8ace9566c96 --save
 
 Plugin depends on [cordova-support-google-services](https://github.com/chemerisuk/cordova-support-google-services) for setting up google services properly. Please read the [README](https://github.com/chemerisuk/cordova-support-google-services/blob/master/README.md) carefully in order to avoid common issues with a project configuration.
 
