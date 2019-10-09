@@ -1,6 +1,10 @@
 # cordova-plugin-firebase-analytics<br>[![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 > Cordova plugin for [Firebase Analytics](https://firebase.google.com/docs/analytics/)
 
+## Fork
+
+This fork was made to make the plugin compatible with ``phonegap-plugin-push`` which uses an older version of Firebase.
+
 ## Installation
 
     cordova plugin add https://github.com/geckotechnl/cordova-plugin-firebase-analytics.git#e8d9bb1dfa1215d21ac92bb9012fe8ace9566c96 --save
