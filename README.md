@@ -5,6 +5,10 @@
 
 This fork was made to make the plugin compatible with ``phonegap-plugin-push`` which uses an older version of Firebase.
 
+**Retired**
+
+This fork is no longer needed, now that the ``cordova-plugin-push`` and ``cordova-plugin-firebase-analytics`` have configuration options to set Android FCM / iOS Framework versions.
+
 ## Installation
 
     cordova plugin add https://github.com/geckotechnl/cordova-plugin-firebase-analytics.git#e8d9bb1dfa1215d21ac92bb9012fe8ace9566c96 --save
